@@ -1,0 +1,4 @@
+repository "Pollocean@Pollocean@cloud"
+  path "/"
+    br "/main"
+    co "/main"
